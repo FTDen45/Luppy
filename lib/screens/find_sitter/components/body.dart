@@ -31,7 +31,7 @@ class Body extends StatelessWidget {
           Container(
             height: getProportionateScreenHeight(812) -
                 getProportionateScreenHeight(158) - //HeaderFind()
-                getProportionateScreenHeight(146) - //AdsSitting()
+                getProportionateScreenHeight(160) - //AdsSitting()
                 kPaH - //AdsSitting()
                 getProportionateScreenHeight(80) - //BottomNavBar()
                 getHeightStatusBar(),

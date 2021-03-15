@@ -42,9 +42,6 @@ class HeaderFind extends StatelessWidget {
               )
             ],
           ),
-          Container(
-            height: kPaH,
-          ),
           TextField(
             decoration: InputDecoration(
               border: InputBorder.none,

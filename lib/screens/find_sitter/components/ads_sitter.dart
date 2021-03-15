@@ -11,7 +11,7 @@ class AdsSitter extends StatelessWidget {
     return GestureDetector(
       onTap: ontap,
       child: Container(
-        height: getProportionateScreenHeight(146),
+        height: getProportionateScreenHeight(160),
         padding: EdgeInsets.symmetric(horizontal: kPaW, vertical: kPaH),
         margin: EdgeInsets.only(
           left: kPaW,

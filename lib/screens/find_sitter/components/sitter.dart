@@ -31,7 +31,7 @@ class Sitter extends StatelessWidget {
       onTap: ontap,
       child: Container(
         margin: EdgeInsets.symmetric(horizontal: kPaW),
-        height: getProportionateScreenHeight(139),
+        //height: getProportionateScreenHeight(139),
         width: getProportionateScreenWidth(375),
         child: Column(
           children: [
